@@ -1,0 +1,36 @@
+website-jan-2018
+================
+
+# Set up
+
+```
+npm install
+```
+
+# Build static static
+
+```
+./node_modules/hexo/bin/hexo generate
+```
+
+# Create new post
+
+```
+./node_modules/hexo/bin/hexo new post "Post title"
+```
+
+# Development server
+
+```
+./node_modules/hexo/bin/hexo new post "Post title"
+```
+
+# Production
+
+This is meant to be deployed behind a Dockerized `nginx-proxy`/`letsencrypt-nginx-proxy-companion` combo:
+
+```
+./node_modules/hexo/bin/hexo generate
+docker-compose up -d
+```
+

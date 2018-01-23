@@ -1,0 +1,26 @@
+/*Google fonts*/
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Faster+One');
+
+.navbar-brand {
+  font-family: 'Faster One', 'Times New Roman', sans-serif;
+}
+
+/*===============================================
+ * Background Colors
+ *===============================================*/
+.bg-texture {
+  background: transparent -webkit-radial-gradient(circle farthest-side at right bottom, #ffe34c 5%, #a67c00 25%, #ffd700 80%, #bf9b30 98%) repeat scroll 0% 0%;
+  background: transparent -o-radial-gradient(circle farthest-side at right bottom, #ffe34c 5%, #a67c00 25%, #ffd700 80%, #bf9b30 98%) repeat scroll 0% 0%;
+  background: transparent -moz-radial-gradient(circle farthest-side at right bottom, #ffe34c 5%, #a67c00 25%, #ffd700 80%, #bf9b30 98%) repeat scroll 0% 0%;
+  background: transparent radial-gradient(circle farthest-side at right bottom, #ffe34c 5%, #a67c00 25%, #ffd700 80%, #bf9b30 98%) repeat scroll 0% 0%;
+}
+
+.post-intro-header {
+  background: no-repeat left center;
+  background-size: 200%;
+}
+
+.post-intro-header .navbar-brand {
+  color: white;
+}
