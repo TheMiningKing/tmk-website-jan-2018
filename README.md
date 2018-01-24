@@ -30,6 +30,7 @@ npm install
 This is meant to be deployed behind a Dockerized `nginx-proxy`/`letsencrypt-nginx-proxy-companion` combo:
 
 ```
+npm install
 ./node_modules/hexo/bin/hexo generate
 docker-compose up -d
 ```
