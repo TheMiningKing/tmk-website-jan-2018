@@ -3,7 +3,9 @@ layout: layout
 ---
 
 <!-- Page Header -->
-<header class="intro-header" style="background-image: url('<%= config.root %><%= page["header-img"] || config["header-img"] %>')">
+<header>
+<div class="bg-texture">
+<div class="intro-header post-intro-header" style="background-image: url('<%= config.root %><%= page["header-img"] || config["header-img"] %>')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
@@ -15,6 +17,8 @@ layout: layout
             </div>
         </div>
     </div>
+</div>
+</div>
 </header>
 
 <!-- Main Content -->
