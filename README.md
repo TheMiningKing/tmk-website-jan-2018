@@ -22,7 +22,7 @@ npm install
 # Development server
 
 ```
-./node_modules/hexo/bin/hexo new post "Post title"
+./node_modules/hexo/bin/hexo s -p 3001
 ```
 
 # Production
