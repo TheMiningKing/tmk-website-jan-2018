@@ -20,7 +20,7 @@ In the simplest terms, a blockchain is an open ledger. When a transaction is per
 
 ## So why don't I just buy Bitcoin?
 
-You probably should, but [I'll leave that to you](https://coinsquare.io). Bitcoin is one of many cryptocurrencies. Many new currencies, like _Ethereum_ solve new problems that Bitcoin does not. They're not necessarily meant to replace or compete with Bitcoin, but rather _compliment_ it.
+You probably should, but [I'll leave that to you](https://quadrigacx.com). Bitcoin is one of many cryptocurrencies. Many new currencies, like _Ethereum_ solve new problems that Bitcoin does not. They're not necessarily meant to replace or compete with Bitcoin, but rather _compliment_ it.
 
 [Ethereum](https://www.ethereum.org/) is a currency that is set to change the world. It is also spiking in value (up $500 from November). As with Bitcoin, you can simply purchase it off a reputable currency exchange. You can also _mine_ it like in the olden days of Bitcoin.
 
