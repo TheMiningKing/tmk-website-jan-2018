@@ -76,3 +76,8 @@ sitemap:
 header-img: img/mining-king-head.svg
 SEOTitle: The Mining King
 github_username: TheMiningKing
+
+# Sidebar
+sidebar: true 
+sidebar-about-description: 
+sidebar-avatar: img/mining-king-no-tools.svg 
