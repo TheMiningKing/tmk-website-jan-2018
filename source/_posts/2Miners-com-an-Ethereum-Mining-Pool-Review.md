@@ -6,11 +6,11 @@ tags:
 - mining
 ---
 
-Nick from [2miners.com](https://2miners.com) reached out to the Mining King a couple of weeks back. He wants to promote his mining pool, and I'm happy to oblige him by giving it a test run.
+Nick from [2miners.com](https://2miners.com) reached out to the Mining King a couple of weeks back. He wants to promote his mining pool, and I'm happy to oblige by giving it a test run.
 
-This is a welcome change of pace, because as miners, it's easy to fall into a mining pool rut. Don't fix what ain't broke, afterall.
+A new pool is a welcome change of pace for me, because it's easy to fall into a mining pool rut. Don't fix what ain't broke, afterall.
 
-So far I've had success pool mining with:
+So far I've had success mining with:
 
 - [ethereumpool.co](https://ethereumpool.co/)
 - [dwarfpool.com](http://dwarfpool.com)
@@ -117,7 +117,7 @@ If you're going to use `ethminer` on 2Miners, there are two points of which to b
 
 ## Review
 
-So, with a bit of trial and error, the _bula_ rig is ready to join the 2Miners Ethereum mining pool. I'm going to plug in and see how long it takes to earn 0.1 ETH. If it takes less than ten days, 2Miners will be declared the _winner_.
+So, with a bit of trial and error, the _bula_ rig is ready to join the 2Miners Ethereum mining pool. After my next Dwarfpool payout, I'm going to plug in and see how long it takes to earn 0.1 ETH. If it takes less than ten days, 2Miners will be declared the _winner_ and I'll fall back into a nice, comfortable mining pool rut.
 
 ### Check back soon!
 
