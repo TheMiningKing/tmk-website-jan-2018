@@ -1,4 +1,4 @@
-title: Choose your Currency Exchange Wisely
+title: Choose your Currency Exchange Wisely (Stay away from Coinsquare)
 tags:
 - exchanges
 - wallets
