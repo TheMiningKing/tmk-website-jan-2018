@@ -1,4 +1,5 @@
 title: Choose your Currency Exchange Wisely (Stay away from Coinsquare)
+date: 2018-01-25 15:34:58
 tags:
 - exchanges
 - wallets
