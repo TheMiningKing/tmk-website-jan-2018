@@ -1,5 +1,5 @@
 title: Buying and Selling Currency with Ethereum
-date: 2017-12-22 15:34:58
+date: 2018-01-25 15:34:58
 tags:
 - commerce
 - exchange
