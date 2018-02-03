@@ -2,6 +2,7 @@ title: Ethereum Mining Rig Prototyping and Market Investigation
 date: 2017-11-09 16:55:04      
 tags:
 - research
+- rig
 ---
 
 # Abstract

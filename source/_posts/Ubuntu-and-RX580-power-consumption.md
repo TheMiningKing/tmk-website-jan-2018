@@ -4,6 +4,7 @@ tags:
 - rx580
 - ubuntu
 - wattage
+- details
 ---
 
 It came as a shock to the good folk down at [Memory Express](https://www.memoryexpress.com/), but the RX580 GPUs draw roughly 200-250W each when running under Ubuntu 16.04. Under Windows, a 1200W power supply is sufficient. Under Ubuntu, the rig will reboot after 5-10 minutes when power requirements outpace the PSU. 

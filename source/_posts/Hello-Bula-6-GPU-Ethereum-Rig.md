@@ -2,6 +2,7 @@ title: 'Hello, Bula 6 GPU Ethereum Rig'
 date: 2017-12-16 19:54:16
 tags:
 - research
+- rig
 ---
 
 The _Bula_ rig officially commenced mining Ethereum at 19:27 MST. It is an analog of the [Aloha Ethereum mining rig](/blog/2017/11/09/Ethereum-Mining-Rig-Prototyping-and-Market-Investigation/).

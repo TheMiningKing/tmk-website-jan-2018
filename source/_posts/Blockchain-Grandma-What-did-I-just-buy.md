@@ -2,6 +2,8 @@ title: Blockchain Grandma - What did I just buy?!?
 date: 2017-12-15 09:53:14
 tags:
 - blockchain
+- mining
+- education
 ---
 
 Grandma came to me with money to invest in cryptocurrencies. She'd heard all about the incredible rise of Bitcoin, and wants to try grabbing her piece of the blockchain.
@@ -30,7 +32,7 @@ Remember that _ledger_ I was talking about? Making it transparent and _trustless
 
 ### Trustless?
 
-This just means that you're never in a situation where you could get robbed.
+This just means that you're less likely to be in a situation where you could get robbed.
 
 Basically, in a blockchain, all the blocks are stored in computers, or _nodes_, all over the world. Together these nodes form a giant, distributed world-wide computer. This computer can never be turned off as long as there is demand. Transparency and honesty are maintained by all the individual nodes. As long as no single person controls 51% of the nodes, fraud is virtually impossible. 
 

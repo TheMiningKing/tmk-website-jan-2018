@@ -2,6 +2,7 @@ title: Ethereum Mining Fundamentals
 date: 2017-11-14 12:35:47
 tags:
 - manual
+- ethereum
 ---
 
 So you've got yourself a rig... now what?
