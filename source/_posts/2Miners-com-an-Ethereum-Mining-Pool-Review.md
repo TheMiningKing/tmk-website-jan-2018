@@ -119,6 +119,15 @@ If you're going to use `ethminer` on 2Miners, there are two points of which to b
 
 So, with a bit of trial and error, the _bula_ rig is ready to join the 2Miners Ethereum mining pool. After my next Dwarfpool payout, I'm going to plug in and see how long it takes to earn 0.1 ETH. If it takes less than ten days, 2Miners will be declared the _winner_ and I'll fall back into a nice, comfortable mining pool rut.
 
+
+## Mining commenced February 5, 12:50 MST
+
+Check bula's stats [here](https://eth.2miners.com/#/en/account/0x7e5533116dbd23b113d3288aacbf4d2122f88ad3).
+
+The interface is way slicker than Dwarfpool's. Cool live updates.
+
 ### Check back soon!
+
+
 
 
