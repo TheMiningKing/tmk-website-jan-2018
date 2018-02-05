@@ -53,7 +53,7 @@ export GPU_MAX_ALLOC_PERCENT=100
 export GPU_SINGLE_ALLOC_PERCENT=100
 
 # Plain connection
-ethminer --farm-recheck 200 -SP 1 -G -S eth.2miners.com:2020 -O 0x7e5533116dbd23b113d3288aacbf4d2122f88ad3.bula
+ethminer --farm-recheck 2000 -SP 1 -G -S eth.2miners.com:2020 -O 0x7e5533116dbd23b113d3288aacbf4d2122f88ad3.bula
 ```
 
 This allows me to start mining by simply executing:
@@ -122,12 +122,12 @@ So, with a bit of trial and error, the _bula_ rig is ready to join the 2Miners E
 
 ## Mining commenced February 5, 12:50 MST
 
+The web interface is way slicker than Dwarfpool's. Cool live updates.
+
+Initially the hash rates reported by `ethminer` fluctuated wildly. That was resolved by raising the `--farm-recheck` parameter from `200` to `2000`. 
+
 Check bula's stats [here](https://eth.2miners.com/#/en/account/0x7e5533116dbd23b113d3288aacbf4d2122f88ad3).
 
-The interface is way slicker than Dwarfpool's. Cool live updates.
 
 ### Check back soon!
-
-
-
 
