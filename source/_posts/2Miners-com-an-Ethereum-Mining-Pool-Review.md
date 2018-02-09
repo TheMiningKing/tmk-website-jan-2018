@@ -126,8 +126,7 @@ The web interface is way slicker than Dwarfpool's. Cool live updates.
 
 Initially the hash rates reported by `ethminer` fluctuated wildly. That was resolved by raising the `--farm-recheck` parameter from `200` to `2000`. 
 
-Check bula's stats [here](https://eth.2miners.com/#/en/account/0x7e5533116dbd23b113d3288aacbf4d2122f88ad3).
-
+Check bula's stats [here](https://eth.2miners.com/en/account/0x7e5533116dbd23b113d3288aacbf4d2122f88ad3).
 
 ### Check back soon!
 
