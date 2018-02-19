@@ -115,18 +115,47 @@ If you're going to use `ethminer` on 2Miners, there are two points of which to b
 1. The `GPU_FORCE_64BIT_PTR` environment variable (needs to be set to `1`)
 2. And `ethminer`'s stratum protocol option (set like so `-SP 1`)
 
+Also, initially the hash rates reported by `ethminer` fluctuated wildly. That was resolved by raising the `--farm-recheck` parameter from `200` to `2000`. 
+
 ## Review
 
 So, with a bit of trial and error, the _bula_ rig is ready to join the 2Miners Ethereum mining pool. After my next Dwarfpool payout, I'm going to plug in and see how long it takes to earn 0.1 ETH. If it takes less than ten days, 2Miners will be declared the _winner_ and I'll fall back into a nice, comfortable mining pool rut.
 
+## Results
 
-## Mining commenced February 5, 12:50 MST
+Mining commenced February 5, 12:50 MST. A 0.101 payout was received on February 17.
 
-The web interface is way slicker than Dwarfpool's. Cool live updates.
+This is a bit disappointing because I've been able to consistently draw about 0.1 ETH every ten days with Dwarfpool. It took twelve days on 2Miners. That said, I'm not ready to abandon 2Miners just yet. Here's why...
 
-Initially the hash rates reported by `ethminer` fluctuated wildly. That was resolved by raising the `--farm-recheck` parameter from `200` to `2000`. 
+### The web interface
+
+The 2Miners web interface is way slicker than Dwarfpool's. It's stable, you don't have to refresh all the time, and it's designed with mobile devices in mind. Dwarfpool cannot say the same.
+
+### For long-term profitability, pool size probably doesn't matter
+
+Dwarfpool is huge. 2Miners is tiny by comparison. While 2Miners have found three blocks today so far, Dwarfpool has found over 50 (they only display the last 50, so I'm not sure of the exact total). Naturally, this leads to more predictable, hourly payouts for individual miners.
+
+Most miners are aware that they're trading profits for predictability when joining a mining pool. Solo mining, over time, is supposed to be more profitable. You won't know when you'll find a block, but when you do, you don't have to share with anyone. Over time, you'll earn more ether as a solo miner.
+
+Pooled mining, is kind of the same in a way. Though I didn't receive the desired payout within the desired timeframe, over time the hills and valleys in earnings will likely even out.
+
+### 2Miners' stats are very informative
+
+To be fair, Dwarfpool has reasonably descriptive stats too, though it misses the mark in presentation. I really like 2Miner's breakdown of earnings for the last month and precise shares on found blocks. Maybe this is a benefit of being a smaller pool. With all the new blocks found every hour by Dwarfpool, shares are summed for those hours. A minor criticism, but you're never totally sure how you profited from individual blocks.
+
+### 2Miners cons
+
+One thing I like about Dwarfpool is that you can set payouts at 0.05 ETH. With 2Miners you have no choice but to wait until 0.1 ETH.
+
+As well, I'm not sure how 2Miners' _Pay Per Last N Shares_ scheme impacts earnings when mining is interrupted. For example, I was trying to get my RX580s to reach their full potential the other day. I'd frequently connect and disconnect my rig from the pool. During connected times, my submitted shares and potential earnings were displayed on the web interface. When disconnected, potential earnings would drop to zero. So what happened to the shares I submitted when I was connected? I'm not really sure. With Dwarfpool I know for sure I received credit.
+
+## Conclusion
+
+In terms of profitability, Dwarfpool has been great. That said, their interface sucks and their stat calculations frequently fall behind. I once went a whole day without any updates. That's the kind of thing that makes a miner nervous.
+
+It's all about profitability. Though 2Miners fell a bit short, I can't be sure the same thing wouldn't have happened on Dwarfpool. After all, blocks are added at regular intervals and new miners are coming online all the time. As such, it will take longer to earn the same amount of ether.
+
+With all that in mind, I'm sticking with 2Miners for awhile. Their web interface is superior and I suspect earnings will even out over time anyway.
 
 Check bula's stats [here](https://eth.2miners.com/en/account/0x7e5533116dbd23b113d3288aacbf4d2122f88ad3).
-
-### Check back soon!
 
