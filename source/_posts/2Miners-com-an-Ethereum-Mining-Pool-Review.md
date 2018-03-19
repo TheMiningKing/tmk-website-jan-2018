@@ -6,6 +6,15 @@ tags:
 - mining
 ---
 
+# 2018-3-14 Update!
+
+I put the [bula rig](http://dwarfpool.com/eth/address/?wallet=7e5533116dbd23b113d3288aacbf4d2122f88ad3) back on Dwarfpool, because 2miners was kind of sucking there for awhile. It took 14 days to pay out 0.1 ETH. Dwarfpool has consistently paid 0.1 ETH every 10 days.
+
+We'll see if this is an issue isolated to 2miners, or if mining profits are down because of dilution...
+
+
+# Setup and Review
+
 Nick from [2miners.com](https://2miners.com) reached out to the Mining King a couple of weeks back. He wants to promote his mining pool, and I'm happy to oblige by giving it a test run.
 
 A new pool is a welcome change of pace for me, because it's easy to fall into a mining pool rut. Don't fix what ain't broke, afterall.
