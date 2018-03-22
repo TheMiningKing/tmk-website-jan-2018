@@ -13,11 +13,11 @@ Based on this realization and the feedback offered by my early human test subjec
 1. It's a break from the norm
 2. It doesn't work on Tor anyway
 
-In adopting this feedback, _Thanks y'all!_ I aim to:
+In adopting this feedback _(thanks y'all!)_ I aim to:
 
-1. Preserve as much mutual anonymity between buyer and seller as possible
+1. Preserve as much mutual anonymity as possible between buyer and seller
 2. Minimize record collection and facilitate record encryption
-3. Minimize database dependency
+3. Minimize database dependencies
 
 These are challenges huge in their subtleties. They haven't been met yet, yet I bet they do get met.
 
@@ -25,7 +25,7 @@ With that, I present...
 
 # How to Tor-Proof Your Crypto Shop
  
-Bad news... if you _really_ want anonymity, then buyer-seller email communication becomes a manual exercise. You'll need something like [mail2tor.com](https://mail2tor.com) to talk to your customers.
+Bad news... if you _really_ want anonymity, then buyer-seller email communication becomes a manual exercise. You'll need something like [mail2tor.com](http://mail2tor.com) to talk to your customers.
 
 Moreover, the cart application sends email notifications to the seller, which cannot be allowed to leave the server. Consider this _healthy paranoia_...
 
@@ -37,9 +37,9 @@ I'm also assuming a production deployment. The steps that follow are the _minimu
 
 ## First, disable remote password login on your Tor server
 
-At the very least, this will prevent anyone from attempting to guess or brute-force their way into your server.
+At the very least, this will prevent anyone from attempting to guess or brute-force their way in.
 
-This is to be executed on your local system, i.e., _not_ on the Tor server:
+Execute the following on your local system, i.e., _not_ on the Tor server:
 
 ```
 ssh-keygen -t rsa
@@ -83,7 +83,7 @@ Restart the `ssh` server
 sudo /etc/init.d/ssh reload
 ```
 
-If you log out and attempt to login with a password via `root` or your user, you will now be denied. Only the holder of the private `rsa_id` file can gain access to the server.
+If you log out and attempt to login with a password via `root` or your user, you will now be denied. Only the holder of the private `rsa_id` file can gain access.
 
 
 ## Setup shop
@@ -229,7 +229,7 @@ docker-compose exec tor cat /home/user/.tor/hidden_app_1/hostname
 
 ## Retrieving orders
 
-The crypto-shopping-cart's Tor-safe deployment ensures all outgoing emails are intercepted. Emails intended for customers will need to be manually copied and pasted off of your hidden service server and relayed manually through an anonymous mail service like [mail2tor.com](https://mail2tor.com).
+The crypto-shopping-cart's Tor-safe deployment ensures all outgoing emails are intercepted. Emails intended for customers will need to be manually copied and pasted off of your hidden service server and relayed manually through an anonymous mail service like [mail2tor.com](http://mail2tor.com).
 
 For server side email management, I use `mutt`:
 
@@ -247,7 +247,7 @@ sudo mutt -f mailorders/root
 
 How do we preserve both anonymity and build trust?
 
-It's a ways off yet, but I plan to incorporate Ethereum smart contracts into the order process. My early goal is to withold payment until Canada Post reports that a package has been delivered.
+It's a ways off yet, but I plan to incorporate Ethereum smart contracts into the order process. My early goal is to withhold payment until Canada Post reports that a package has been delivered.
 
 If you want to take a stab at it, contributions are welcome!
 
