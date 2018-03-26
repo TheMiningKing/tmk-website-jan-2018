@@ -6,12 +6,17 @@ tags:
 - mining
 ---
 
+# 2018-3-24 Update!
+
+I'm sad to say I'm back on Dwarfpool for now. 2Miner's has a slick, reliable interface, but it just doesn't pay out as consistently as Dwarfpool. Even with new miner's coming online all the time, I'm earning 0.1 ETH approximately every 10 days. My last round with 2Miners took 14 days to earn the same about of coin.
+
+Sorry 2Miners. Nothing personal. I actually like your service better, but I suspect that your pool's relatively small size makes finding blocks more irregular and thus occassionally infrequent. 
+
 # 2018-3-14 Update!
 
 I put the [bula rig](http://dwarfpool.com/eth/address/?wallet=7e5533116dbd23b113d3288aacbf4d2122f88ad3) back on Dwarfpool, because 2miners was kind of sucking there for awhile. It took 14 days to pay out 0.1 ETH. Dwarfpool has consistently paid 0.1 ETH every 10 days.
 
 We'll see if this is an issue isolated to 2miners, or if mining profits are down because of dilution...
-
 
 # Setup and Review
 
