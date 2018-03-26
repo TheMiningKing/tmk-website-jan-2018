@@ -8,9 +8,9 @@ tags:
 
 # 2018-3-24 Update!
 
-I'm sad to say I'm back on Dwarfpool for now. 2Miner's has a slick, reliable interface, but it just doesn't pay out as consistently as Dwarfpool. Even with new miner's coming online all the time, I'm earning 0.1 ETH approximately every 10 days. My last round with 2Miners took 14 days to earn the same about of coin.
+I'm sad to say I'm back on Dwarfpool for now. 2Miners has a slick, reliable interface, but it just doesn't pay out as consistently as Dwarfpool. Even with new miners coming online all the time, I'm earning 0.1 ETH approximately every 10 days with Dwarfpool. My last round with 2Miners took 14 days to earn the same about of coin.
 
-Sorry 2Miners. Nothing personal. I actually like your service better, but I suspect that your pool's relatively small size makes finding blocks more irregular and thus occassionally infrequent. 
+Sorry 2Miners. Nothing personal. I actually like your service better, but it stands to reason that your pool's relatively small size makes finding blocks more irregular and thus occassionally infrequent. 
 
 # 2018-3-14 Update!
 
