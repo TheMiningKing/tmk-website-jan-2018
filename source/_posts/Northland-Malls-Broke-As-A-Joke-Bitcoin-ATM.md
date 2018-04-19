@@ -1,4 +1,4 @@
-title: General Bytes Broke-As-A-Joke Bitcoin ATM
+title: Northland Mall's Broke-As-A-Joke Bitcoin ATM
 date: 2018-04-19 13:41:10
 tags:
 - atm
