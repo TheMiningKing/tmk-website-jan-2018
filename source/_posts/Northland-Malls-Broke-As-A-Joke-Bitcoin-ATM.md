@@ -21,3 +21,7 @@ At the time of posting, the [General Bytes](https://www.generalbytes.com/) Bitco
 Still, with the exchanges' own exorbitant transfer fees, I prefer being able to just buy Bitcoin down at the mall. But, like the mall itself, the ATM is broke as a joke.
 
 {% asset_img general-bytes-bitcoin-atm.jpg "As a joke!!!" %}
+
+## Update: 2018-4-20
+
+I gave the ATM another try. It's legit, but expensive. I put $80 CAD in the machine and ended up without about $65 worth of Bitcoin. This particular ATM has a $9 service charge and is selling at least $700 above common market rates.
