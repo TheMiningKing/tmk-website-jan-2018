@@ -36,4 +36,10 @@ The friendly fellow got a little less friendly when I started talking possible r
 
 Something's up... as much as I'd like to see aloha and bula up and mining, it may be time to politely request a refund.
 
+### Update 2018-6-1
 
+Memory Express cleared the bula PSU. Blame was assigned to this screwed up, burnt out SATA power cable:
+
+{% asset_img burnt-sata.jpg "Fire!" %}
+
+That green corrosion is supposed to draw your attention to the fact that your rig nearly burned down your house. Hilarious that no one noticed until the diagnosis was complete (including myself!).
